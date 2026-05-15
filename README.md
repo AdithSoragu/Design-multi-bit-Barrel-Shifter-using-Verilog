@@ -171,22 +171,6 @@ Internal Wires:
 These wires connect intermediate stages.
 
 ---
-
-# Multiplexer Module
-
-The entire Barrel Shifter is constructed using simple 2×1 multiplexers.
-
-## Logic Equation
-
-```verilog
-assign out = (sel) ? in1 : in0;
-```
-
-When:
-- `sel = 0` → output becomes `in0`
-- `sel = 1` → output becomes `in1`
-
----
 # Conclusion
 
 This project successfully demonstrates the design and implementation of an 8-bit Barrel Shifter using Verilog HDL. The design efficiently performs right shift operations using multiple stages of multiplexers. The project helps in understanding combinational circuit design and high-speed shifting mechanisms used in modern digital systems.
