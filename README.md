@@ -232,17 +232,6 @@ The design is verified using simulation tools such as:
 - Cadence Virtuoso
 
 The simulation confirms correct shifting operations for all control inputs.
-
----
-
-# Sample Test Cases
-
-| Input | ctrl | Output |
-|------|------|------|
-| 11110000 | 000 | 11110000 |
-| 11110000 | 001 | 01111000 |
-| 11110000 | 010 | 00111100 |
-| 11110000 | 100 | 00001111 |
 ---
 
 # Conclusion
