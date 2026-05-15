@@ -223,17 +223,6 @@ endmodule
 ```
 
 ---
-
-# Simulation and Verification
-
-The design is verified using simulation tools such as:
-- ModelSim
-- Xilinx Vivado
-- Cadence Virtuoso
-
-The simulation confirms correct shifting operations for all control inputs.
----
-
 # Conclusion
 
 This project successfully demonstrates the design and implementation of an 8-bit Barrel Shifter using Verilog HDL. The design efficiently performs right shift operations using multiple stages of multiplexers. The project helps in understanding combinational circuit design and high-speed shifting mechanisms used in modern digital systems.
