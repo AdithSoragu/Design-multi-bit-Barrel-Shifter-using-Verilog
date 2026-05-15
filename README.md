@@ -110,14 +110,6 @@ The final output is obtained after passing through all stages.
 
 ---
 
-# Limitations
-
-- Requires more hardware compared to serial shifters
-- Increased number of multiplexers for larger bit-widths
-- Higher area consumption in VLSI implementation
-
----
-
 # Applications
 
 Barrel Shifters are used in:
