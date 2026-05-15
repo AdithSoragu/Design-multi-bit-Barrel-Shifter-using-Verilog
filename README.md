@@ -280,23 +280,6 @@ endmodule
 
 ---
 
-# Simulation Commands
-
-## Using ModelSim
-
-```tcl
-vlog mux2X1.v
-vlog barrel_shifter_8bit.v
-vlog testbench.v
-
-vsim testbench
-
-run -all
-```
-
----
-
-
 # Conclusion
 
 This project successfully demonstrates the design and implementation of an 8-bit Barrel Shifter using Verilog HDL. The design efficiently performs right shift operations using multiple stages of multiplexers. The project helps in understanding combinational circuit design and high-speed shifting mechanisms used in modern digital systems.
