@@ -20,7 +20,6 @@ The Barrel Shifter is an important building block in:
 - Communication Systems
 - Data Manipulation Hardware
 
-This project implements an 8-bit Barrel Shifter capable of shifting data right by 0 to 7 positions based on the control input.
 ---
 
 # Barrel Shifter Architecture
