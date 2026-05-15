@@ -329,18 +329,6 @@ The project can be extended to:
 
 ---
 
-# Learning Outcomes
-
-Through this project, the following concepts are learned:
-
-- Digital combinational circuit design
-- Multiplexer implementation
-- Verilog HDL coding
-- Hierarchical modeling
-- Simulation and verification
-- Hardware optimization
-
----
 
 # Conclusion
 
