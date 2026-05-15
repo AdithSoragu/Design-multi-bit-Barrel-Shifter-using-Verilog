@@ -21,32 +21,6 @@ The Barrel Shifter is an important building block in:
 - Data Manipulation Hardware
 
 This project implements an 8-bit Barrel Shifter capable of shifting data right by 0 to 7 positions based on the control input.
-
----
-
-# Objectives
-
-The main objectives of this project are:
-
-- To design an 8-bit Barrel Shifter using Verilog HDL
-- To implement shifting operations using multiplexers
-- To understand combinational circuit design
-- To perform simulation and verification of the design
-- To learn hierarchical hardware modeling techniques
-
----
-
-# Features
-
-- 8-bit data input
-- 3-bit shift control input
-- Right shift operation
-- High-speed combinational logic
-- Multiplexer-based architecture
-- Modular Verilog implementation
-- Synthesizable design
-- Easy to expand for higher bit-widths
-
 ---
 
 # Barrel Shifter Architecture
