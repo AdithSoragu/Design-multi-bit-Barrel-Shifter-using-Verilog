@@ -296,14 +296,6 @@ run -all
 
 ---
 
-# Output Waveform
-
-The waveform verifies:
-- Correct right shifting
-- Proper operation of control bits
-- Accurate output generation
-
----
 
 # Conclusion
 
