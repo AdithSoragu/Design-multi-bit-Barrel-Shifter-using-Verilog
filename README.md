@@ -305,19 +305,6 @@ The waveform verifies:
 
 ---
 
-# Design Flow
-
-1. Write Verilog modules
-2. Compile source files
-3. Create testbench
-4. Simulate design
-5. Verify outputs
-6. Generate waveform
-7. Synthesize hardware
-
----
-
-
 # Conclusion
 
 This project successfully demonstrates the design and implementation of an 8-bit Barrel Shifter using Verilog HDL. The design efficiently performs right shift operations using multiple stages of multiplexers. The project helps in understanding combinational circuit design and high-speed shifting mechanisms used in modern digital systems.
