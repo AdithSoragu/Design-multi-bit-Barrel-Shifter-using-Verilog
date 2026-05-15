@@ -358,16 +358,6 @@ This project successfully demonstrates the design and implementation of an 8-bit
 
 ---
 
-# References
-
-1. Digital Design by Morris Mano
-2. Verilog HDL by Samir Palnitkar
-3. FPGA and Verilog Tutorials
-4. Digital Logic Design Notes
-5. IEEE Research Papers on Barrel Shifters
-
----
-
 # Author
 
 Adith Soragu
