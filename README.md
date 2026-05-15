@@ -207,22 +207,6 @@ endmodule
 ```
 
 ---
-
-# 2×1 Multiplexer Module
-
-```verilog
-module mux2X1(in0, in1, sel, out);
-
-input in0, in1;
-input sel;
-output out;
-
-assign out = (sel) ? in1 : in0;
-
-endmodule
-```
-
----
 # Conclusion
 
 This project successfully demonstrates the design and implementation of an 8-bit Barrel Shifter using Verilog HDL. The design efficiently performs right shift operations using multiple stages of multiplexers. The project helps in understanding combinational circuit design and high-speed shifting mechanisms used in modern digital systems.
