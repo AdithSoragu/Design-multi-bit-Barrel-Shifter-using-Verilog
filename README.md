@@ -350,9 +350,6 @@ This project successfully demonstrates the design and implementation of an 8-bit
 
 # Software Requirements
 
-- Xilinx Vivado
-- ModelSim
-- Cadence Virtuoso
 - Intel ModelSim
 - Verilog HDL Compiler
 
