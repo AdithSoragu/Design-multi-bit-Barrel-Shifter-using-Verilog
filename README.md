@@ -152,25 +152,6 @@ Advantages:
 - Widely used in FPGA and ASIC design
 
 ---
-
-# Module Description
-
-## Main Module: barrel_shifter_8bit
-
-Inputs:
-- `in[7:0]` → 8-bit input data
-- `ctrl[2:0]` → shift control signal
-
-Output:
-- `out[7:0]` → shifted output
-
-Internal Wires:
-- `x[7:0]`
-- `y[7:0]`
-
-These wires connect intermediate stages.
-
----
 # Conclusion
 
 This project successfully demonstrates the design and implementation of an 8-bit Barrel Shifter using Verilog HDL. The design efficiently performs right shift operations using multiple stages of multiplexers. The project helps in understanding combinational circuit design and high-speed shifting mechanisms used in modern digital systems.
