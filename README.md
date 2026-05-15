@@ -372,8 +372,3 @@ This project successfully demonstrates the design and implementation of an 8-bit
 
 Adith Soragu
 
----
-
-# License
-
-This project is open-source and available for educational and learning purposes.
