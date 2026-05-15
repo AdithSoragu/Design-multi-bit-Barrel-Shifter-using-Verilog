@@ -51,7 +51,7 @@ The main objectives of this project are:
 
 # Barrel Shifter Architecture
 
-
+<img width="868" height="766" alt="image" src="https://github.com/user-attachments/assets/ef228738-5b49-4540-88a8-b0a27ea0b11d" />
 
 ---
 
