@@ -51,20 +51,7 @@ The main objectives of this project are:
 
 # Barrel Shifter Architecture
 
-The Barrel Shifter is divided into three stages:
 
-1. 4-bit shift stage
-2. 2-bit shift stage
-3. 1-bit shift stage
-
-Each stage uses 2×1 multiplexers to determine whether shifting should occur.
-
-The control bits:
-- `ctrl[2]` → controls 4-bit shift
-- `ctrl[1]` → controls 2-bit shift
-- `ctrl[0]` → controls 1-bit shift
-
-By combining these stages, shifts from 0 to 7 bits are achieved.
 
 ---
 
