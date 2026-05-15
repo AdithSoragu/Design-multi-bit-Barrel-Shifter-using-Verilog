@@ -243,41 +243,6 @@ The simulation confirms correct shifting operations for all control inputs.
 | 11110000 | 001 | 01111000 |
 | 11110000 | 010 | 00111100 |
 | 11110000 | 100 | 00001111 |
-
----
-
-# Testbench Example
-
-```verilog
-module testbench;
-
-reg [7:0] in;
-reg [2:0] ctrl;
-wire [7:0] out;
-
-barrel_shifter_8bit uut (
-    .in(in),
-    .ctrl(ctrl),
-    .out(out)
-);
-
-initial begin
-
-in = 8'b11110000;
-
-ctrl = 3'b000; #10;
-ctrl = 3'b001; #10;
-ctrl = 3'b010; #10;
-ctrl = 3'b011; #10;
-ctrl = 3'b100; #10;
-
-$finish;
-
-end
-
-endmodule
-```
-
 ---
 
 # Conclusion
