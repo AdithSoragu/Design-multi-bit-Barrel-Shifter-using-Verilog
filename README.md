@@ -317,18 +317,6 @@ The waveform verifies:
 
 ---
 
-# Future Enhancements
-
-The project can be extended to:
-- 16-bit Barrel Shifter
-- 32-bit Barrel Shifter
-- Bidirectional shifting
-- Arithmetic shifting
-- Rotational shifting
-- FPGA implementation
-
----
-
 
 # Conclusion
 
