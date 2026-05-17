@@ -1,5 +1,11 @@
 # Design and Implementation of Multi-Bit Barrel Shifter using Verilog HDL
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Verilog-blue">
+  <img src="https://img.shields.io/badge/Simulation-ModelSim-green">
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+</p>
+
 ## Abstract
 A Barrel Shifter is a combinational circuit used for shifting binary data by a specified number of bits in a single clock cycle. It is widely used in processors, ALUs, DSP systems, and communication hardware because of its high-speed shifting capability.
 
